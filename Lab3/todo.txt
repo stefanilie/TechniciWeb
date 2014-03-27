@@ -1,0 +1,5 @@
+-terminat cele 4 intrebari
+-facut file de .css V
+-legat paginile intre ele
+-facut un homepage si restul paginior sa aibe un design 
+asemanator, cu header asemanator
