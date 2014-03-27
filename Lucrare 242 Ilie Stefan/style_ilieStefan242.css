@@ -1,0 +1,63 @@
+body{text-align: left;}
+ul.scaun{
+	list-style-position: inside;
+}
+ul.moloz{
+	list-style-position: inside;
+}
+#header{
+	text-align: center;
+}
+
+#text{
+	text-align: center;
+}
+
+#imagine{
+	position: absolute;
+}
+
+#imagine_caine{
+	position: relative;
+	margin-left: auto;
+}
+
+#div_imagine{
+	text-align: center;
+	width: 300px;
+	height: 300px;
+	margin-right: 30px;
+	margin-left: 250px;
+	border-style: solid;
+	border-color: blue;
+	float: left;
+}
+
+#div_proiecte{
+	text-align: center;
+	width: 300px;
+	height:200px;
+	border-style: solid;
+	border-color: red;
+	position: relative;
+	margin-top: 155px;
+	margin-left: -335px;
+	float:left;
+}
+
+#aside{
+	width: 300px;
+	height: 200px;
+	border-style: solid;
+	border-color: green;
+	position: relative;
+	margin-left: 700px;
+	margin-top: 175px;
+	text-align: center;
+	border-radius: 15px;
+}
+
+#top{
+	position: relative;
+	margin-top: 1000px;
+}
