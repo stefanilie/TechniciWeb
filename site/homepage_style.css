@@ -1,0 +1,21 @@
+#welcome{
+	text-align: center;
+	font-family: serif;
+	color: white;
+}
+
+#cluj{
+	position: absolute;
+	margin-left: 10%;
+	margin-top: 10%;	
+}
+
+body{
+	background-color: red;
+}
+
+#enter_button{
+	position: absolute;
+	margin-top: 25%;
+	margin-left: 35%	
+}
