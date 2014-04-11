@@ -1,0 +1,14 @@
+body{
+	background-color: red;
+}
+
+#header1{
+	background-color: white;
+}
+
+#meniu{
+	display: inline;
+	color: white;
+	font-family: serif;
+	font-size: x-large;
+}
