@@ -32,3 +32,9 @@ body{
 	font-family: serif;
 	font-size: x-large;
 }
+
+#construct{
+	position: absolute;
+	margin-left: 380px;
+	margin-top: 80px;
+}
