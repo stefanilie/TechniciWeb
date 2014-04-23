@@ -1,7 +1,7 @@
 body{
 	background-color: red;
 }
-
+/*header stuff*/
 #welcome{
 	text-align: center;
 	font-family: serif;
@@ -10,7 +10,12 @@ body{
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 	position: absolute;
 	top: 0%;
-	left: 45%;
+	left: 43%;
+}
+
+#header1{
+	background-color: yellow;
+	padding-right: 40px;
 }
 
 #welcomeMedia{
@@ -25,6 +30,16 @@ body{
 }
 
 
+/*DELETE THIS AFTER COMPLETE DEVELOPMENT */
+#construct{
+	position: absolute;
+	margin-left: 380px;
+	margin-top: 80px;
+}
+
+
+
+/* Homepage stuff */
 #cluj{
 	position: absolute;
 	margin-left: 10%;
@@ -37,16 +52,20 @@ body{
 	margin-left: 50%	
 }
 
-#header1{
+#welcomeHome{
+	text-align: center;
+	font-family: serif;
+	color: white;
 	background-color: yellow;
-	padding-right: 40px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	position: absolute;
+	top: 0%;
+	left: 25%;
 }
 
-#construct{
-	position: absolute;
-	margin-left: 380px;
-	margin-top: 80px;
-}
+
+
+/* News page */
 
 #article1{
 	border-style: solid;
@@ -66,6 +85,16 @@ body{
 	margin-top: 3%;
 }
 
+#video1{
+	float: left;
+	margin: 0 2% 0% 0;
+}
+
+#video2{
+	float: left;
+	margin: 0 2% 0% 0;
+}
+
 #article2{
 	border-style: solid;
 	border-radius: 15px;
@@ -83,6 +112,12 @@ body{
 
 	margin-top: 44%;
 }
+
+
+
+
+
+/* Dropdown menu */
 
 nav{
 	position: absolute;
@@ -116,7 +151,7 @@ nav > ul > li > a:hover{
 #hidden{
 	visibility: hidden;
 	position: absolute;
-	top: 88%;
+	top: 86%;
 	right: 73s%;
 	width: 140px;
     height: 150px;
@@ -133,8 +168,5 @@ nav > ul > li > a:hover{
 
 #dropdown:hover #hidden{
 	visibility: visible;
-}
-
-#iggyTest{
-	padding-left: 10%;
+	z-index: 400;
 }
