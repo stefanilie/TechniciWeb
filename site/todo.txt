@@ -5,6 +5,10 @@
 
 -pictures slide-show on homepage
 
+Base page
+=> latest events
+=> news
+
 -News Page
 => Articles and news about LFC and OLSC Romania
 
@@ -23,3 +27,9 @@
 
 -Media
 => articles about OLSC that from mainstream mass-media.
+
+
+
+
+fixing
+-de facut nwelcomu inclus in headerul mare
