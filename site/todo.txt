@@ -1,5 +1,4 @@
 -2 state design for enter button
--2 state design for menu buttons
 -fine-tune menu design
 -fine tune site colors
 
@@ -15,7 +14,6 @@ Base page
 -About page
 => few information about what is OLSC Romania
 => page with all local branches with links to FB pages
-=>
 
 -Events page
 => Charity Work
@@ -32,4 +30,3 @@ Base page
 
 
 fixing
--de facut nwelcomu inclus in headerul mare
