@@ -30,3 +30,18 @@ Base page
 
 
 fixing
+
+
+
+usefull links 
+
+--gallery for homepage 
+http://css-tricks.com/creating-a-slick-auto-playing-featured-content-slider/
+
+
+in media sa mai pun videourile de pe youtube
+
+ 
+
+
+media query - pentru active resize
