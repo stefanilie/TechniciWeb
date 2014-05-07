@@ -13,6 +13,7 @@ body{
 	left: 43%;
 }
 
+
 #header1{
 	background-color: yellow;
 	padding-right: 40px;
@@ -48,7 +49,6 @@ body{
 
 #enter_button{
 	position: absolute;
-	margin-top: 25%;
 	margin-left: 50%	
 }
 
