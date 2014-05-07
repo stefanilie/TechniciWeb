@@ -193,7 +193,7 @@ nav > ul > li > a:hover{
 
 /* SLIDER */
 
-.slider-wrap						{ width: 419px; position: absolute; top: 87px; left: 40px; }			
+.slider-wrap{ width: 419px; position: absolute; top: 197px; left: 40px; }			
 .stripViewer .panelContainer 
 .panel ul						{ text-align: left; margin: 0 15px 0 30px; }
 .stripViewer						{ position: relative; overflow: hidden; width: 419px; height: 285px; }
