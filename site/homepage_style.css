@@ -131,6 +131,24 @@ body{
 	margin-top: 81.5%;
 }
 
+#article4{
+	border-style: solid;
+	border-radius: 15px;
+	border-color: white;
+	background-color: white;
+	width: 900px;
+	height: 500px;
+	position: absolute;
+	margin-left: 13.5%;
+	color: red;
+	padding-left: 3%;
+	padding-right: 3%;
+	overflow: auto;	
+	font-size: 150%;
+
+	margin-top: 121.5%;
+}
+
 #video3{
 	float: left;
 	margin: 0 2% 0% 0;
