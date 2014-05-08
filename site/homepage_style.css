@@ -37,6 +37,11 @@ body{
 	margin-left: 380px;
 	margin-top: 80px;
 }
+#construct:hover{
+	transform(10deg);
+	-webkit-transform:rotate(90deg);
+	transition: 0.5s;
+}
 
 
 
@@ -61,6 +66,7 @@ body{
 	position: absolute;
 	top: 0%;
 	left: 25%;
+	font-size: 15px;
 }
 
 
